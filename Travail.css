@@ -1,0 +1,187 @@
+html{
+    background-color: #4017ed;
+}
+.ensemble{
+    align-items: flex-start;
+    display: inline-block;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+body{
+    display: inline;
+    margin: 0 auto;
+}
+
+.blockg{
+    margin: 50px;
+    border-radius: 15px;
+    width: 300px;
+    height: 380px;
+    background-color:#f5d4ff ;
+    
+}
+.blockp{
+    background-color: #ff0074;
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+h1{
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(226, 218, 218) ;
+    font-family: "Isometra", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.prix{
+    width: 300px;
+    height: 90px;
+    text-align: center;
+    margin: 0 auto;
+    border-bottom-color: #ff0074;
+    border-bottom-style: groove;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ; 
+}
+.euro{
+    display: inline;
+    font-size: 15pt;
+    margin: 0;
+}
+.un{
+    display: inline;
+    font-size: 30pt;
+    font-style: normal;
+    font-family: "Isometra", serif;
+    font-weight: 400;
+    margin: 0;
+}
+.centime{
+    display: inline;
+    font-size: 15pt;
+    margin: 0;
+}
+.per{
+    font-size: 10pt;
+    font-style: normal;
+    font-family: "Edu QLD Hand", cursive;
+    margin: 0;
+    height: 20px;
+}
+.divers{
+    text-align: center;
+    margin: 0 auto;
+    border-bottom-color: #ff0074;
+    border-bottom-style: groove;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ; 
+}
+.content{
+    font-size: 10pt;
+    font-style: normal;
+    font-family: sans-serif;
+}
+.bouton{
+    height: 36px;
+    text-align: center;
+    margin: 15px auto;
+    border-bottom-color: #ff0074;
+    border-bottom-style: groove;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ; 
+}
+.buton{
+    font-size: 10pt;
+    font-style: normal;
+    font-family: sans-serif;
+}
+.blockg2{
+
+    margin: 50px;
+    border-radius: 15px;
+    width: 300px;
+    height: 380px;
+    background-color:#fab9a5;
+}
+.blockp2{
+    background-color: #ff7146;
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.prix2{
+    width: 300px;
+    height: 90px;
+    text-align: center;
+    margin: 0 auto;
+    border-bottom-color: #ff7146;
+    border-bottom-style: groove;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ; 
+}
+.divers2{
+    text-align: center;
+    margin: 0 auto;
+    border-bottom-color: #ff7146;
+    border-bottom-style: groove;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ; 
+}
+.bouton2{
+     height: 36px;
+    text-align: center;
+    margin: 15px auto;
+    border-bottom-color: #ff7146;
+    border-bottom-style: groove;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ; 
+}
+.blockg3{
+    
+    margin: 50px;
+    border-radius: 15px;
+    width: 300px;
+    height: 380px;
+    background-color:#fddda0;
+}
+.blockp3{
+    background-color: #ffbc3b;
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.prix3{
+    width: 300px;
+    height: 90px;
+    text-align: center;
+    margin: 0 auto;
+    border-bottom-color: #ffbc3b;
+    border-bottom-style: groove;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ; 
+}
+.divers3{
+    text-align: center;
+    margin: 0 auto;
+    border-bottom-color: #ffbc3b;
+    border-bottom-style: groove;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ; 
+}
+.bouton3{
+    height: 36px;
+    text-align: center;
+    margin: 15px auto;
+    border-bottom-color: #ffbc3b;
+    border-bottom-style: groove;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ; 
+}
